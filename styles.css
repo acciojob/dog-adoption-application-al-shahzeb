@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+form{
+    margin: 10px;
+}
+
+p{
+    padding: 10px;
+}
